@@ -81,7 +81,7 @@ if '__main__' == __name__:
 
     ZABBIX_SERVER = 'http://monitor.icmori.com/zabbix/'
     USER = "Admin"
-    PASSWORD = "momudfG0182Tp$*~Q.eddie"
+    PASSWORD = "password"
     HOSTNAME = "elasticsearch_cluster_info"
 
     #zbx_auth = login(ZABBIX_SERVER, USER, PASSWORD)
